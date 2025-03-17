@@ -15,6 +15,7 @@
             <ul>
                 <li>Crear una pantalla principal en donde el usuario ponga sus datos.</li>
                 <li>Podes añadir todos los datos que requieras utilizar. Como recomendación minima un nombre de usuario y un avatar.</li>
+                <li>En el caso de añadir una imagen como el avatar, utilizar una imagen con dominio publico como lo puede ser una imagen de "google images"</li>
                 <li>Almacenar información en LocalStorage o una DB local del navegador.</li>
                 <li>Redirigir a la sección principal.</li>
                 <li>Realizar validaciones necesarias, con mensajes amigables para el usuario.</li>
